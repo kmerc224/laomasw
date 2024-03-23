@@ -2,10 +2,7 @@ const button = document.getElementById('button')
 const toasts = document.getElementById('toasts')
 
 const messages = [
-    'Message One',
-    'Message Two',
-    'Message Three',
-    'Message Four',
+    '对不起，网站暂时维护关站，请过几天再来'
 ]
 
 const types = ['info', 'success', 'error']
